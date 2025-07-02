@@ -1,6 +1,6 @@
 Pruebas de aplicaciones Web de Urban.Routes
 
-En este proyecto, probarás la funcionalidad de compartir un automóvil en dos entornos:
+En este proyecto se probará la funcionalidad de compartir un automóvil en dos entornos:
 
     Google Chrome, resolución de pantalla 800x600
     Firefox, resolución de pantalla 1920x1080
